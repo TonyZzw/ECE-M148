@@ -1,4 +1,4 @@
-# ECE-M148
+# ECE-M148 Project 3 - Booking Cancellation Prediction in the Hotel Industry						                 
 My project 3 solution for ECE-M148 Spring 2023
 
 * File Project_3 is code file for project 3
